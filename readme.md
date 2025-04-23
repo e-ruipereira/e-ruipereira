@@ -1,26 +1,17 @@
 # 👋 Hi there! I'm Rui Pereira
 
-Welcome to my GitHub profile! I'm passionate about technology, problem-solving, and building impactful projects. Here's a bit more about me:
+Welcome to my GitHub corner! I'm a **Front-End Developer** at [eSchooling]([https://eschooling.com](https://www.e-schooling.com/en))
 
-## 🚀 About Me
-- 🌟 Developer with a keen interest in [your specialties: web development, machine learning, etc.].
-- 💡 Always eager to learn new technologies and improve my skills.
-- 🎯 Focused on writing clean, efficient, and maintainable code.
-
-## 🛠️ Technologies & Tools
-- **Languages**: [e.g., Python, JavaScript, Java, etc.]
-- **Frameworks & Libraries**: [e.g., React, Django, Flask, etc.]
-- **Tools**: [e.g., Git, Docker, Kubernetes, etc.]
-- **Other Skills**: [e.g., CI/CD, Cloud Services, etc.]
+## 🛠️ Technologies I Work With
+- **HTML**
+- **SCSS**
+- **JavaScript**
 
 ## 📈 GitHub Stats
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ruipereira&show_icons=true&theme=radical)
+![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-ruipereira&show_icons=true&theme=radical)
 
 ## 📬 Let's Connect
-- **Portfolio**: [Your Portfolio Link Here]
-- **LinkedIn**: [Your LinkedIn Profile Here]
-- **Email**: [Your Email Address Here]
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ruiffpereiira/)  
 
----
+✨ **“Life is like well-documented code: easier to understand!”** ✨
 
-🌟 **“Code is like humor. When you have to explain it, it’s bad.”** - Cory House
