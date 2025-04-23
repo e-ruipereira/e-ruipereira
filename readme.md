@@ -2,7 +2,7 @@
 
 Welcome to my GitHub corner! I'm a **Front-End Developer** at [eSchooling]([https://eschooling.com](https://www.e-schooling.com/en))
 
-# 🛠️ Technologies I Work With
+# 🛠️ Technologies
 - **HTML**
 - **SCSS**
 - **JavaScript**
